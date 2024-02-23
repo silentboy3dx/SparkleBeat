@@ -1,0 +1,2 @@
+# SparkleBeat
+The SparkleBeat project
